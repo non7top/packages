@@ -17,5 +17,6 @@ endchoice
 
 config OPENCONNECT_STOKEN
 	bool "stoken support"
+	default y
 
 endmenu
